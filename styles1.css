@@ -1,0 +1,152 @@
+.nav-bar {
+  border-bottom: 5px solid #048eaa;
+  background-color: #75e2e6;
+  padding: 10px;
+}
+.dogzero {
+  border: solid thick #048eaa;
+	border-radius: 50%;
+  margin-left: 39%;
+  margin-bottom: 20px;
+  margin-top: 22px;
+  
+}
+.main-dog-img {
+  border: solid thick #048eaa;
+  border-radius: 50%;
+  margin-right: 80px;
+}
+  
+.dogcolumn {
+  display: inline-block;
+  width: 30%;
+  position: right;
+  text-align: center;
+  margin-left: 40px;  
+}    
+.heading-section {
+  width: 100%;
+  padding: 0px 0px 25px 0px;
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("images/park.jpg");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom center;
+}
+.main-title {
+  margin-left: 28%;
+  padding: 25px;
+  font-size: 44px;
+  margin-top: 15px;
+  color: white;
+}
+.name-form {
+  margin-left: 31%;
+  color: white;
+  width: 400px;
+  }
+.input-form {
+  width: 485px;
+  height: 60px;
+  color: white;
+  margin-top: 14px;
+  margin-bottom: 12px;
+  border-radius: 3px;
+  border: 5px; 
+  border-color: black;
+}
+.submit-form {
+  width: 485px;
+  height: 60px;
+  background-color: #75e2e6;
+  margin-top: 12px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  border: 5px;
+  border-color: #75e2e6;
+  font-size: 25px;
+  font-weight: bold;
+}
+.bottom-footer {
+  float: left;
+}
+* {
+  border: 1px;
+  margin: 0px;
+  font-family: 'Open Sans', sans-serif;
+}
+.background-img {
+  padding-left: 15px;
+  padding-bottom: 0px;
+}
+.name-form {
+  font-size: 25px;
+}
+.inlinks {
+  float: right;
+  font-size: 23px;
+  padding-top:10px;
+  padding-right: 15px;
+}
+.dog-p {
+  width: 82%;
+  margin-top: 25px;
+  font-size: 20px;
+}
+.dog-heading {
+  font-weight: 400;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-right: 80px;
+}
+.button1 {
+  font-size: 20px;
+  background-color: #048eaa ;
+  color: white;
+  border-radius: 3px;
+  width: 350px;
+  height: 60px;
+  margin-top: 50px;
+  margin-right: 85px;
+}
+.bottom-footer {
+  border: thin #048eaa ;
+  width: 100%;
+  background-color: #048eaa;
+  margin-top: 3%;
+}
+.icons {
+  position: center;
+  border: thin #048eaa;
+  padding-left: 39%;
+  padding-bottom: 2%;
+  padding-top: 2%;
+}
+.media-icon {
+  padding: 8px;
+}
+.footer-title {
+  color: white;
+  padding-left: 41%;
+  font-size: 20px;
+  padding-top: 3%;
+}
+a {
+  padding:20px;
+  text-decoration: none;
+  color: black;
+}
+h1 {
+  font-weight: 400;
+}
+.dog-p {
+  height: 250px;
+  width: 350px;
+  text-align:left;
+  font-weight: bold;
+}
+.main-section {
+  margin: auto;
+  height: 750px;
+  text-align: center;
+}
