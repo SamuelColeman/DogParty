@@ -17,7 +17,7 @@ For this project, I attempted to recreate a static web page using HTML and CSS. 
 The screen shots below are from my attempt to recreate the page.
 
 ![Image of Dog Party Attempt 1]
-(https://octodex.github.com/DogParty/DogPartyAttempt1.png)
+("https://user-images.githubusercontent.com/47789209/60402657-de8cc580-9b4f-11e9-8dca-9187b8d54aea.png"
 ![Image of Dog Party Attempt 2]
 (https://octodex.github.com/DogParty/DogPartyAttempt2.png)
 ![Image of Dog Party Attempt 3]
