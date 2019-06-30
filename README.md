@@ -10,7 +10,7 @@ For this project, I attempted to recreate a static web page using HTML and CSS. 
 * Font: Open Sans
 
 ![Image of Dog Party Comp 1]
-(https://octodex.github.com/DogParty/DogPartyComp1.png)
+(https://raw.githubusercontent.com/DogParty/DogPartyComp1.png)
 ![Image of Dog Party Comp 2]
 (https://octodex.github.com/DogParty/DogPartyComp2.png)
 
