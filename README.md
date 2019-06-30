@@ -12,7 +12,7 @@ For this project, I attempted to recreate a static web page using HTML and CSS. 
 ![Image of Dog Party Comp 1]
 (DogPartyComp1.png)
 ![Image of Dog Party Comp 2]
-(https://octodex.github.com/DogParty/DogPartyComp2.png)
+(https://github.com/SamuelColeman/DogParty/DogPartyComp2.png)
 
 The screen shots below are from my attempt to recreate the page.
 
