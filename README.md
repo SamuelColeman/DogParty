@@ -10,18 +10,18 @@ For this project, I attempted to recreate a static web page using HTML and CSS. 
 * Font: Open Sans
 
 ![Image of Dog Party Comp 1]
-(https://octodex.github.com/dog-party/DogPartyComp1.png)
+(https://octodex.github.com/DogParty/DogPartyComp1.png)
 ![Image of Dog Party Comp 2]
-(https://octodex.github.com/dog-party/DogPartyComp2.png)
+(https://octodex.github.com/DogParty/DogPartyComp2.png)
 
 The screen shots below are from my attempt to recreate the page.
 
 ![Image of Dog Party Attempt 1]
-(https://octodex.github.com/dog-party/DogPartyAttempt1.png)
+(https://octodex.github.com/DogParty/DogPartyAttempt1.png)
 ![Image of Dog Party Attempt 2]
-(https://octodex.github.com/dog-party/DogPartyAttempt2.png)
+(https://octodex.github.com/DogParty/DogPartyAttempt2.png)
 ![Image of Dog Party Attempt 3]
-(https://octodex.github.com/dog-party/DogPartyAttempt3.png)
+(https://octodex.github.com/DogParty/DogPartyAttempt3.png)
 
 ## Contributors 
 
