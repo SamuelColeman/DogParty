@@ -9,12 +9,12 @@ For this project, I attempted to recreate a static web page using HTML and CSS. 
 * Body text: #000000
 * Font: Open Sans
 
-### Dog Party Comp Image 1
-(https://user-images.githubusercontent.com/47789209/60402808-a1c1ce00-9b51-11e9-83d5-5e1a633acb8a.png)
-! [Image of Dog Party Comp 2]
-(https://user-images.githubusercontent.com/47789209/60402811-a7b7af00-9b51-11e9-8afd-13e4ac7417e3.png)
+## Dog Party Comp Images
 
-The screen shots below are from my attempt to recreate the page.
+<img width="1440" alt="DogPartyAttempt1" src="https://user-images.githubusercontent.com/47789209/60402869-9622d700-9b52-11e9-81ad-028455d3a609.png">
+
+
+## Dog Party Attempt Images
 
 ![Image of Dog Party Attempt 1]
 (https://user-images.githubusercontent.com/47789209/60402657-de8cc580-9b4f-11e9-8dca-9187b8d54aea.png)
